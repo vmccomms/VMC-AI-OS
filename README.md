@@ -83,6 +83,9 @@ The project applies enterprise application architecture principles to modern age
 
 This is an actively evolving architecture and is being extended toward a more complete AI Operating System platform.
 
+<img width="352" height="705" alt="image" src="https://github.com/user-attachments/assets/f63498ac-d26d-47a8-9193-e06f1e2f3477" />
+
+
 
 <img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/0bdad1ac-8537-478b-89a1-68e06e534922" />
 
