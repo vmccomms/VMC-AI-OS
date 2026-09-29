@@ -83,19 +83,7 @@ The project applies enterprise application architecture principles to modern age
 
 This is an actively evolving architecture and is being extended toward a more complete AI Operating System platform.
 
-V1.0  ✅ Working multi-agent pipeline
-      ↓
-V1.1  Agent quality + stronger Analysis
-      ↓
-V1.2  Persistent memory
-      ↓
-V1.3  Tool/API framework
-      ↓
-V1.4  Human approval / permissions
-      ↓
-V1.5  Observability + execution tracing
-      ↓
-V1.6  Model routing
-      ↓
-V1.7  Production-oriented architecture
+
+<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/0bdad1ac-8537-478b-89a1-68e06e534922" />
+
 
